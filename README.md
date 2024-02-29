@@ -1,6 +1,10 @@
 # fi4002-01-2023-2
 Simulation and Modelling of Physical Systems course 01 class in 2023-2 semester Feb-May 2024
 
++ `05-mar-2024` Fast Fourier Transform with Python ([slide](https://osf.io/k6mr9), [task]( https://github.com/dudung/fi4002-01-2023-2/issues/8), [lms](https://edunex.itb.ac.id/courses/58544/preview/237535))
++ `29-feb-2024`
++ `27-feb-2024`
++ `22-feb-2024`
 + `15-feb-2024` Spreading of vibration ([slide](https://osf.io/xkan8), [task](https://github.com/dudung/fi4002-01-2023-2/issues/4), [lms](https://edunex.itb.ac.id/courses/58544/preview/230549))
 + `13-feb-2024` Kinematics graphs and superposition by assignment (slide, [task](https://github.com/dudung/fi4002-01-2023-2/issues/3), [lms](https://edunex.itb.ac.id/courses/58544/preview/230549))
 + `08-feb-2024` Python and its packages installation in virtual enviroment (slide, [task](https://github.com/dudung/fi4002-01-2023-2/issues/2), [lms](https://edunex.itb.ac.id/courses/58544/preview/224047)) &check;
