@@ -5,7 +5,7 @@ Simulation and Modelling of Physical Systems course 01 class in 2023-2 semester 
 + `29-feb-2024` Descriptive statistics ([slide](https://osf.io/zqkv9), [task](https://github.com/dudung/fi4002-01-2023-2/issues/7), [lms](https://edunex.itb.ac.id/courses/58544/preview/236649))
 + `27-feb-2024` Reading and writing data with pandas DataFrame ([slide](https://osf.io/6t48k), [task](https://github.com/dudung/fi4002-01-2023-2/issues/6), [lms](https://edunex.itb.ac.id/courses/58544/preview/236649))
 + `22-feb-2024` Jupyter Notebook: Markdown, LaTeX equation, Python-Mermaid ([lms](https://edunex.itb.ac.id/courses/58544/preview/234479))
-+ '20-feb-2024` Gist, Python, Matplotlib ([slide-1](https://osf.io/pxcra), [slide-2](https://osf.io/rxu7v), [slide-3](https://osf.io/zp2y7), [task](https://github.com/dudung/fi4002-01-2023-2/issues/5), [lms](https://edunex.itb.ac.id/courses/58544/preview/234479))
++ `20-feb-2024` Gist, Python, Matplotlib ([slide-1](https://osf.io/pxcra), [slide-2](https://osf.io/rxu7v), [slide-3](https://osf.io/zp2y7), [task](https://github.com/dudung/fi4002-01-2023-2/issues/5), [lms](https://edunex.itb.ac.id/courses/58544/preview/234479))
 + `15-feb-2024` Spreading of vibration ([slide](https://osf.io/xkan8), [task](https://github.com/dudung/fi4002-01-2023-2/issues/4), [lms](https://edunex.itb.ac.id/courses/58544/preview/230549))
 + `13-feb-2024` Kinematics graphs and superposition by assignment (slide, [task](https://github.com/dudung/fi4002-01-2023-2/issues/3), [lms](https://edunex.itb.ac.id/courses/58544/preview/230549))
 + `08-feb-2024` Python and its packages installation in virtual enviroment (slide, [task](https://github.com/dudung/fi4002-01-2023-2/issues/2), [lms](https://edunex.itb.ac.id/courses/58544/preview/224047)) &check;
