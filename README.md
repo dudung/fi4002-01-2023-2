@@ -1,7 +1,7 @@
 # fi4002-01-2023-2
 Simulation and Modelling of Physical Systems course 01 class in 2023-2 semester Feb-May 2024
 
-+ `19-mar-2024` Numerical integration with Riemann sums ([slide-1](https://osf.io/2akug), [slide-2](https://osf.io/b7xud), [task](https://edunex.itb.ac.id/courses/58544/preview/242179) [lms](https://github.com/dudung/fi4002-01-2023-2/issues/10))
++ `19-mar-2024` Numerical integration with Riemann sums ([slide-1](https://osf.io/2akug), [slide-2](https://osf.io/b7xud), [task](https://github.com/dudung/fi4002-01-2023-2/issues/11) [lms](https://edunex.itb.ac.id/courses/58544/preview/242179))
 + `14-mar-2024` Fouriers series and decompostition ([slide-1](https://osf.io/eupys), [slide-2](https://osf.io/ukcmw), [task](https://github.com/dudung/fi4002-01-2023-2/issues/10), [lms](https://edunex.itb.ac.id/courses/58544/preview/240700))
 + `07-mar-2024` Hands-on about FFT in Python ([lms](https://edunex.itb.ac.id/courses/58544/preview/237535)).
 + `05-mar-2024` Fast Fourier Transform with Python ([slide](https://osf.io/k6mr9), [task]( https://github.com/dudung/fi4002-01-2023-2/issues/8), [lms](https://edunex.itb.ac.id/courses/58544/preview/237535))
