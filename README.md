@@ -3,7 +3,7 @@ Simulation and Modelling of Physical Systems course 01 class in 2023-2 semester 
 
 + `19-mar-2024` Numerical integration with Riemann sums ([slide-1](https://osf.io/2akug), [slide-2](https://osf.io/b7xud), [task](https://github.com/dudung/fi4002-01-2023-2/issues/11) [lms](https://edunex.itb.ac.id/courses/58544/preview/242179))
 + `14-mar-2024` Fouriers series and decompostition ([slide-1](https://osf.io/eupys), [slide-2](https://osf.io/ukcmw), [task](https://github.com/dudung/fi4002-01-2023-2/issues/10), [lms](https://edunex.itb.ac.id/courses/58544/preview/240700))
-+ `07-mar-2024` Hands-on about FFT in Python ([lms](https://edunex.itb.ac.id/courses/58544/preview/237535)).
++ `07-mar-2024` Hands-on about FFT in Python ([lms](https://edunex.itb.ac.id/courses/58544/preview/237535), [task](https://github.com/dudung/fi4002-01-2023-2/issues/9)).
 + `05-mar-2024` Fast Fourier Transform with Python ([slide](https://osf.io/k6mr9), [task]( https://github.com/dudung/fi4002-01-2023-2/issues/8), [lms](https://edunex.itb.ac.id/courses/58544/preview/237535))
 + `29-feb-2024` Descriptive statistics ([slide](https://osf.io/zqkv9), [task](https://github.com/dudung/fi4002-01-2023-2/issues/7), [lms](https://edunex.itb.ac.id/courses/58544/preview/236649))
 + `27-feb-2024` Reading and writing data with pandas DataFrame ([slide](https://osf.io/6t48k), [task](https://github.com/dudung/fi4002-01-2023-2/issues/6), [lms](https://edunex.itb.ac.id/courses/58544/preview/236649))
