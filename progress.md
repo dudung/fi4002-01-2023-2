@@ -1,5 +1,5 @@
-User | 1 | 2
-:-: | :-: | :-:
+User | 1 | 2 | 3 | 4 | 5 |6 | 7 | 8 | 9 | 10 | 11
+:-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 [darmoniaga](https://github.com/darmoniaga) | ✔️ | ✔️
 [alfans022](https://github.com/alfans022) | ✔️ | ✔️
 [shemrnd](https://github.com/shemrnd) | ✔️ | ✔️
