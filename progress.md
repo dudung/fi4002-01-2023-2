@@ -2,7 +2,7 @@ User | [01](https://github.com/dudung/fi4002-01-2023-2/issues/1) | [02](https://
 :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 [darmoniaga](https://github.com/darmoniaga) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️
 [alfans022](https://github.com/alfans022) | ✔️ | ✔️ | ✔️ | ✔️ | ❌
-[shemrnd](https://github.com/shemrnd) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️
+[shemrnd](https://github.com/shemrnd) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️
 [audreyljhns-001](https://github.com/audreyljhns-001) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️
 [AnnisaSW](https://github.com/AnnisaSW) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️
 [bernikes](https://github.com/bernikes) | ✔️ | ✔️ | ✔️ | ✔️ | ✔️
