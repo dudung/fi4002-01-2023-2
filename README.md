@@ -1,6 +1,6 @@
 # fi4002-01-2023-2
 Simulation and Modelling of Physical Systems course 01 class in 2023-2 semester Feb-May 2024
-+ `28-mar-2024` Monte Carlo Integration: A very short intro with examples ([slide](), [lms]())
++ `28-mar-2024` Monte Carlo Integration: A very short intro with examples ([slide](https://osf.io/9ykqu), [lms]())
 + `26-mar-2024` Discrete Fourier Transform: Create your own code ([slide](https://osf.io/z9f35), [task](https://github.com/dudung/fi4002-01-2023-2/issues/13), [lms](https://edunex.itb.ac.id/courses/58544/preview/244629))
 + `21-mar-2024` Completing unfinished tasks ([task](https://github.com/dudung/fi4002-01-2023-2/issues/12), [lms](https://edunex.itb.ac.id/courses/58544/preview/242179))
 + `19-mar-2024` Numerical integration with Riemann sums ([slide-1](https://osf.io/2akug), [slide-2](https://osf.io/b7xud), [task](https://github.com/dudung/fi4002-01-2023-2/issues/11) [lms](https://edunex.itb.ac.id/courses/58544/preview/242179))
