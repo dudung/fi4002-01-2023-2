@@ -1,6 +1,8 @@
 # fi4002-01-2023-2
 Simulation and Modelling of Physical Systems course 01 class in 2023-2 semester Feb-May 2024
-+ `16-apr-2024` Data Science1Data and data-something ([slide](https://osf.io/an2bs), [task](https://github.com/dudung/fi4002-01-2023-2/issues/16), [lms](https://edunex.itb.ac.id/courses/58544/preview/247477))
++ `25-apr-2024` Intro of Neural network intro ([slide](https://osf.io/3ksmu), [task](https://github.com/dudung/fi4002-01-2023-2/issues/18), [lms](https://edunex.itb.ac.id/courses/58544/preview/248893))
++ `23-apr-2024` Source of data ([slide](https://osf.io/3rb8k), [task](https://github.com/dudung/fi4002-01-2023-2/issues/17), [lms](https://edunex.itb.ac.id/courses/58544/preview/248893))
++ `16-apr-2024` Data and data-something ([slide](https://osf.io/an2bs), [task](https://github.com/dudung/fi4002-01-2023-2/issues/16), [lms](https://edunex.itb.ac.id/courses/58544/preview/247477))
 + `02-apr-2024` Hands-on about Monte Carlo integration ([slide](https://osf.io/9ykqu), [task](https://github.com/dudung/fi4002-01-2023-2/issues/15), [lms](https://edunex.itb.ac.id/courses/58544/preview/244629))
 + `28-mar-2024` Monte Carlo Integration: A very short intro with examples ([slide](https://osf.io/9ykqu), [task](https://github.com/dudung/fi4002-01-2023-2/issues/14), [lms](https://edunex.itb.ac.id/courses/58544/preview/244629))
 + `26-mar-2024` Discrete Fourier Transform: Create your own code ([slide](https://osf.io/z9f35), [task](https://github.com/dudung/fi4002-01-2023-2/issues/13), [lms](https://edunex.itb.ac.id/courses/58544/preview/244629))
