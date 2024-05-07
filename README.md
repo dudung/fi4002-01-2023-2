@@ -1,5 +1,6 @@
 # fi4002-01-2023-2
 Simulation and Modelling of Physical Systems course 01 class in 2023-2 semester Feb-May 2024
++ `07-may-2024` TensorFlow Playground & RBL ([slide](https://osf.io/43baq), [task](https://github.com/dudung/fi4002-01-2023-2/issues/19), [lms](https://edunex.itb.ac.id/courses/58544/preview/250799))
 + `25-apr-2024` Intro of Neural network intro ([slide](https://osf.io/3ksmu), [task](https://github.com/dudung/fi4002-01-2023-2/issues/18), [lms](https://edunex.itb.ac.id/courses/58544/preview/248893))
 + `23-apr-2024` Source of data ([slide](https://osf.io/3rb8k), [task](https://github.com/dudung/fi4002-01-2023-2/issues/17), [lms](https://edunex.itb.ac.id/courses/58544/preview/248893))
 + `16-apr-2024` Data and data-something ([slide](https://osf.io/an2bs), [task](https://github.com/dudung/fi4002-01-2023-2/issues/16), [lms](https://edunex.itb.ac.id/courses/58544/preview/247477))
